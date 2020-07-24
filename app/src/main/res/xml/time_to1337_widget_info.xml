@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/time_to1337_widget"
+    android:initialLayout="@layout/time_to1337_widget"
+    android:minWidth="180dp"
+    android:minHeight="40dp"
+    android:previewImage="@drawable/leet_logo"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="5000"
+    android:widgetCategory="home_screen"></appwidget-provider>
